@@ -1,2 +1,3 @@
 # GamblingMachine4BetSize
-This is Winform program for Gambling in LAN
+This is a Winform program for Gambling in LAN.
+The program without database,it uses Socket for information transmission.
